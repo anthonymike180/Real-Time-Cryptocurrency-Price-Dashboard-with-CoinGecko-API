@@ -1,5 +1,9 @@
 # Real‑Time Cryptocurrency Price Dashboard with CoinGecko API
 
+ <p align="center">
+  <img src="https://github.com/anthonymike180/Real-Time-Cryptocurrency-Price-Dashboard-with-CoinGecko-API/blob/main/Image%20py.png" width="700">
+</p>
+
 A live dashboard that displays real‑time cryptocurrency price data using the CoinGecko API.
 
 ## 🧩 Project Overview
